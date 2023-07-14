@@ -1,3 +1,3 @@
 Jestem Bartek
 <br>
-Robię w kotlinie na androida
+Robię w kotlinie aplikacje na androida
